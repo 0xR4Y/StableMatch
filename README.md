@@ -10,7 +10,7 @@ For more understanding see the example #1 below.
 - There are 8 total lines representing the preference lists
 - The first 4 lines are the preference list for the men
 - The last 4 lines are the preference list for the women
-EXAMPLE #1: Given an input1.txt file of
+EXAMPLE #1: Given an input1.txt file of:
 4 
 1 2 3 4
 2 1 3 4
